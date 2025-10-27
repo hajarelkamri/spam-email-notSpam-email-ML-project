@@ -1,4 +1,4 @@
-#  Email Spam Classifier - Naive Bayes Implementation
+#  Email Spam Classifier  Naive Bayes Implementation
 
 Un système intelligent de détection de spam utilisant l'algorithme Naive Bayes Multinomial et le traitement automatique du langage naturel (NLP).
 
